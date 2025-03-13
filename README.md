@@ -22,4 +22,8 @@ Today, with **[JSON Web Tokens (JWTs)](./jwt.md)**, this process is significantl
 
 ### Clients/APPs/Frontends
 
+Examples are inside **[client](/client)** folder
+
 ### Resource Servers/APIs/Backends
+
+Examples are inside **[server](/server)** folder
